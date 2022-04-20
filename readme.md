@@ -2,7 +2,7 @@
 
 ## Description
 
-Detect fake tweets using transformes
+Detecting fake COVID-19 data using BERT Model 
 
 ----
 ## Training Model
@@ -21,7 +21,7 @@ Confusion Matrix:
 ## How to run:
 
 ```python
-pip install requirements.txt
+pip install -r requirements.txt
 
 python api.py
 ```
